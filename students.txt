@@ -1,0 +1,18 @@
+20251105,smrit chaulagain,85
+20251106,dhiraj khadka,80
+20251106,Arpan adhakari,70
+111,smrit,90
+222,dhiraj,88
+333,arpan,99
+444,anish,97
+555,subham,87
+666,abish,95
+201,Smrit ,80
+202,smrit,90
+203,smrit,70
+2002,smrit,70
+3003,smrit,60
+2007,smrit,80
+123,Dhiraj,60
+203,smrit,70
+203,smrit,70
